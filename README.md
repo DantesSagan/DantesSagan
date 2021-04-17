@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DantesSagan
-- 👀 I’m interested in making music, coding, games and other.
+- 👀 I’m interested in making music, coding, playing games and other.
 - 🌱 I’m currently learning web-programming, java script, API and i hope never stop it.
 - 💞️ I’m looking to collaborate on everyone!!!
 - 📫 How to reach me:
