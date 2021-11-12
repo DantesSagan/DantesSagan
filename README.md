@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DantesSagan
-- 👀 I’m interested in making music, coding, playing games and other.
+- 👋 Hello comrades, I’m @DantesSagan!!!
+<!-- - 👀 I’m interested in making music, coding, playing games and other.
 - 🌱 I’m currently learning web-programming, java script, API and i hope never stop it.
 - 💞️ I’m looking to collaborate on everyone!!!
-- 📫 How to reach me:
+- 📫 How to reach me: -->
 <!-- 1) Soundcloud - https://soundcloud.com/erkiel-puaro 
 2) CodePen - https://codepen.io/DantesSagan/pen/XWpjrMj
 3) VK - https://vk.com/id46420996
